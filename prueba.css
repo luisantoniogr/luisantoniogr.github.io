@@ -1,0 +1,422 @@
+body{
+    padding: 0;
+    margin: 0;
+    top: 0;
+    background-color: #181f20;
+  }
+  
+  #header {
+    padding: 0;
+    margin: 0;
+    height: 60vh;
+    background-image: url(https://images.unsplash.com/photo-1566661983144-883ee0a8c0c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1082&q=80);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #header h1 {
+    margin: 0;
+    position: relative;
+    top: 7vh;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 15vh;
+    text-shadow: 1px 1px darkgray;
+    color: rgb(167, 48, 48);
+  }
+  
+  #header h2 {
+    margin: 0;
+    position: relative;
+    top: 8vh;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 12vh;
+    text-shadow: 1px 1px darkgray;
+    color: white;
+  }
+  
+  #navbar {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+  
+  #navbar ul {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    list-style-type: none;
+    background-color: #696d7d;
+    overflow: auto;
+    height: 7vh;
+  }
+  
+  #navbar li{
+    float: left;
+  }
+  
+  #navbar a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 2.5px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-size: 150%;
+    letter-spacing: 1px;
+  }
+  
+  
+  #intro {
+    text-align: center;
+    padding: 2vw;
+    margin: 0;
+    border-bottom: 6px dotted #C7A5F3;
+  }
+  
+  #intro h3 {
+    font-family: 'Poiret One', cursive;
+    font-size: 250%;
+  }
+  
+  #intro p {
+    font-family: 'Arvo', sans-serif;
+  }
+  
+  
+  #shirts {
+    text-align: center;
+    padding: 1vw;
+    margin-top: 3vh;
+  }
+  
+  #shirts h3 {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poiret One', cursive;
+    font-size: 200%
+  }
+  
+  #shirts p {
+    font-family: 'Arvo', sans-serif;
+    font-size: 100%;
+  }
+  
+  
+  #shirt1 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #shirt1 img {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  #shirt1 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #shirt1 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #shirt1 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  
+  #shirt2 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #shirt2 img {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  #shirt2 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #shirt2 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #shirt2 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  
+  #shirt3 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #shirt3 img {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  #shirt3 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #shirt3 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #shirt3 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  
+  #shirt4 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #shirt4 img {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  #shirt4 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #shirt4 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #shirt4 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  
+  #pants {
+    text-align: center;
+    padding: 1vw;
+    margin-top: 12vh;
+    border-top: 5px dotted #c7a5f3;
+  }
+  
+  #pants h3 {
+    padding: 0;
+    margin-top: 3vh;
+    font-family: 'Poiret One', cursive;
+    font-size: 200%
+  }
+  
+  #pants p {
+    font-family: 'Arvo', sans-serif;
+    font-size: 100%;
+  }
+  
+  #pants1 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #pants1 img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #pants1 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #pants1 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #pants1 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  #pants2 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #pants2 img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #pants2 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #pants2 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #pants2 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  #pants3 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #pants3 img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #pants3 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #pants3 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #pants3 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  #pants4 {
+    background-color: #d6f6dd;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    margin-bottom: 6vh;
+    padding: 2vw;
+    border-left: 6px dotted #f4989c;
+    border-right: 6px dotted #f4989c;
+  }
+  
+  #pants4 img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #pants4 h2 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  #pants4 a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  #pants4 p {
+    text-align: center;
+    font-family: 'Arvo', sans-serif;
+    font-size: 115%;
+  }
+  
+  
+  #footer {
+    position: relative;
+    background-color: #696d7d;
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  #footer p {
+    text-align: center;
+    font-size: 90%;
+    color: #acecf7;
+    margin: 0;
+    padding: 10px;
+  }
